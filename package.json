@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "xml2js": "0.1.x",
-    "ydpatterns": "0.2.x",
+    "ypatterns": "0.2.x",
     "async": "0.1.x"
   },
   "devDependencies": {
